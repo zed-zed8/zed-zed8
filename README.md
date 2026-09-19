@@ -1,4 +1,8 @@
-## Hi there 👋
+# ✋ Well Hello 🤚
+# || And Welcome ||
+
+## -U- About Me -U-
+- Student learnig Software e
 
 <!--
 **zed-zed8/zed-zed8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
